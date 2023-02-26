@@ -24,8 +24,8 @@ namespace TransparencyPrinter
 
         protected override Result RunCommand(RhinoDoc doc, RunMode mode)
         {
-            // Usually commands in export plug-ins are used to modify settings and behavior.
-            // The export work itself is performed by the TransparencyPrinterPlugin class.
+            RhinoApp.WriteLine("Test");
+            PrinterWindow printerWindow = new PrinterWindow();
             return Result.Success;
         }
     }

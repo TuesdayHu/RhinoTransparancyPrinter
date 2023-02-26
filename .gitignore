@@ -1,3 +1,5 @@
 TransparencyPrinter/.vs/
 TransparencyPrinter/obj/Debug/
 *.cache
+TransparencyPrinter/obj/
+TransparencyPrinter/bin/Debug/

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Coding\\RhinoTransparancyPrinter\\TransparencyPrinter\\TransparencyPrinter.csproj": {}
+    "D:\\Coding\\RhinoTransparencyPrinter\\TransparencyPrinter\\TransparencyPrinter.csproj": {}
   },
   "projects": {
-    "D:\\Coding\\RhinoTransparancyPrinter\\TransparencyPrinter\\TransparencyPrinter.csproj": {
+    "D:\\Coding\\RhinoTransparencyPrinter\\TransparencyPrinter\\TransparencyPrinter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Coding\\RhinoTransparancyPrinter\\TransparencyPrinter\\TransparencyPrinter.csproj",
+        "projectUniqueName": "D:\\Coding\\RhinoTransparencyPrinter\\TransparencyPrinter\\TransparencyPrinter.csproj",
         "projectName": "TransparencyPrinter",
-        "projectPath": "D:\\Coding\\RhinoTransparancyPrinter\\TransparencyPrinter\\TransparencyPrinter.csproj",
+        "projectPath": "D:\\Coding\\RhinoTransparencyPrinter\\TransparencyPrinter\\TransparencyPrinter.csproj",
         "packagesPath": "C:\\Users\\tuesday\\.nuget\\packages\\",
-        "outputPath": "D:\\Coding\\RhinoTransparancyPrinter\\TransparencyPrinter\\obj\\",
+        "outputPath": "D:\\Coding\\RhinoTransparencyPrinter\\TransparencyPrinter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
