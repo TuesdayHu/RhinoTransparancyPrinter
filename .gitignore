@@ -3,3 +3,9 @@ TransparencyPrinter/obj/Debug/
 *.cache
 TransparencyPrinter/obj/
 TransparencyPrinter/bin/Debug/
+obj/
+*.pdb
+*.v1
+*.suo
+bin/
+*.v2

@@ -26,6 +26,7 @@ namespace TransparencyPrinter
         {
             RhinoApp.WriteLine("Test");
             PrinterWindow printerWindow = new PrinterWindow();
+            printerWindow.Show();
             return Result.Success;
         }
     }
